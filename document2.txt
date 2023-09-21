@@ -119,4 +119,6 @@ int main()
 void main(void)
 {
 	srand(time(NULL));
+
+	clock_t initial_clock = clock();
 }
