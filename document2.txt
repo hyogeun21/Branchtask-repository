@@ -110,3 +110,13 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+void main(void)
+{
+	srand(time(NULL));
+}
