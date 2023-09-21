@@ -40,5 +40,10 @@ print(quicksort(0, len(example)-1, example))
 
 void main(void)
 {
-	printf("hello world")
+	printf("hello world");
+	printf("hello world");
+	printf("hello world");
+	printf("hello world");
+	printf("hello world");
+	printf("hello world");
 }
