@@ -37,7 +37,10 @@ print(quicksort(0, len(example)-1, example))
 
 void main(void)
 {
-	printf("sd card");
-	printf("software");
-	printf("computer");
+sdfsdfsdfsdfsd
+sd card
+print
+hello
+world
+}
 }
