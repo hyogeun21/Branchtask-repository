@@ -5,3 +5,10 @@ hello welcome
 hello welcome
 hello welcome
 hello welcome
+
+#include <stdio.h>
+
+void main(void)
+{
+	printf("ss");
+}
